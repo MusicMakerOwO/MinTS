@@ -1,2 +1,2 @@
 # MinTS
-TypeScript transportation made easy
+TypeScript transpilation made easy
